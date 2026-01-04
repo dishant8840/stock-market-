@@ -105,3 +105,4 @@ These metrics suggest that the LSTM model performs well, generalizing effectivel
 - [Madhurya Mishra](https://github.com/madhurya-ops)
 - [Chaitanya Bansal](https://github.com/Chai-B)
 - [Kanhaiya Sharma](https://github.com/kanhaiyas103)
+- [Ayush Anand](https://github.com/Ayush-A17)
